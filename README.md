@@ -95,7 +95,7 @@
 |-----------------|-----------------|-----------------|
 | 허성욱<br>[GitHub](https://github.com/dokpe01) | `팀장` | <ul><li> 프로젝트 총괄 및 일정관리 </li><li> 대화 맥락 탐지 모델 개발 <li> 딥보이스 탐지 모델 개발 </li> <li> 감성 분류 모델 개발 </li> </ul> |
 | 이경민<br>[GitHub](https://github.com/bidulgirin) | `팀원` | <ul><li> 앱 개발 <li> 데이터베이스 설계 및 구축 </li></ul> |
-| 김나영<br> None | `팀원` | <ul><li> 통화 요약 리포트 작성모델 개발 </li><li> 챗봇 개발 </li> <li> 데이터 분석 </li> </ul>  |
+| 김나영<br> [GitHub](https://github.com/NA-young524) | `팀원` | <ul><li> 통화 요약 리포트 작성모델 개발 </li><li> 챗봇 개발 </li> <li> 데이터 분석 </li> </ul>  |
 | 김정안<br>[GitHub](https://github.com/jeongan47) | `팀원` | <ul><li> 데이터 수집/분석/시각화 </li><li> 음성 데이터 전처리(STT) </li></ul>  |
 
 <br/>
