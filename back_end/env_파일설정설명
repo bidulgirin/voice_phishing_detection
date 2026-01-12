@@ -1,0 +1,6 @@
+# (예시) DATABASE_URL=postgresql://postgres:9254@localhost:5432/mydb
+DATABASE_URL= "실제"
+OPENAI_API_KEY="openai api key 입력해야함"
+AES_KEY32="12345678901234567890123456789012"
+FAISS_INDEX_PATH=/app/data/index.faiss # 데이터 적재 path 설정임
+EMBED_MODEL_NAME=sentence-transformers/all-MiniLM-L6-v2 # 임베딩 
